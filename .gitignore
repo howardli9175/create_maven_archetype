@@ -1,6 +1,7 @@
 *.iml
 *.idea
 */target/*
+target/*
 *.DS_Store
 *.zip
 *.jar

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.howardli</groupId>
-    <artifactId>create_maven_archetype</artifactId>
+    <artifactId>spark_archetype</artifactId>
     <version>1.0.0</version>
 
     <build>
